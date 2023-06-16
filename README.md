@@ -1,11 +1,11 @@
-About r-measures
-================
+About r-measures-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-measures-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=measures
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-measures-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides the biggest amount of statistical measures in the whole R world. Includes measures of regression, (multiclass) classification and multilabel classification. The measures come mainly from the 'mlr' package and were programed by several 'mlr' developers.
 
