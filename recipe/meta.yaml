@@ -1,6 +1,5 @@
 {% set version = '0.3' %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-measures
@@ -13,8 +12,7 @@ source:
   sha256: 5439453187648d98935d75daaa9f65ff5706b3993050c790c0d0a5c72c84450c
 
 build:
-  merge_build_host: True  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
